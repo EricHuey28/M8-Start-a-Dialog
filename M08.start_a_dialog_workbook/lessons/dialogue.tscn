@@ -1,4 +1,4 @@
-[gd_scene load_steps=11 format=3 uid="uid://chprvwfixox2y"]
+[gd_scene load_steps=9 format=3 uid="uid://chprvwfixox2y"]
 
 [ext_resource type="Theme" uid="uid://cshg3sgf0xxq" path="res://assets/main_theme.tres" id="1_nggfo"]
 [ext_resource type="Script" uid="uid://c673ndsi3esbr" path="res://lessons/dialogue.gd" id="2_n1q1t"]
@@ -15,12 +15,6 @@ shader_parameter/bg_color = Color(0.980392, 0.94902, 0.72549, 1)
 shader_parameter/pattern_color = Color(0.996078, 0.878431, 0.564706, 1)
 shader_parameter/pattern_size = 256.0
 
-[sub_resource type="InputEventAction" id="InputEventAction_3rk3v"]
-action = &"advance_text"
-
-[sub_resource type="Shortcut" id="Shortcut_7vboy"]
-events = [SubResource("InputEventAction_3rk3v")]
-
 [node name="Dialogue" type="Control"]
 layout_mode = 3
 anchors_preset = 15
@@ -28,6 +22,7 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
+size_flags_vertical = 2
 theme = ExtResource("1_nggfo")
 script = ExtResource("2_n1q1t")
 
@@ -65,38 +60,44 @@ texture = ExtResource("6_bayqr")
 expand_mode = 1
 stretch_mode = 5
 
-[node name="RichTextLabel" type="RichTextLabel" parent="."]
-unique_name_in_owner = true
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+clip_contents = true
 layout_mode = 1
 anchors_preset = -1
 anchor_left = 0.75
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_left = -360.32
-offset_top = 440.0
+offset_left = -374.0
+offset_top = 340.0
 offset_right = -176.0
-offset_bottom = -519.0
+offset_bottom = -252.0
+focus_mode = 3
+mouse_filter = 0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
 size_flags_horizontal = 3
+size_flags_vertical = 2
 bbcode_enabled = true
 text = "Hello World"
 fit_content = true
 
-[node name="NextButton" type="Button" parent="."]
-unique_name_in_owner = true
-layout_mode = 1
-anchors_preset = 3
-anchor_left = 1.0
-anchor_top = 1.0
-anchor_right = 1.0
-anchor_bottom = 1.0
-offset_left = -198.0
-offset_top = -107.0
-offset_right = -24.0
-offset_bottom = -20.0
-grow_horizontal = 0
-grow_vertical = 0
-shortcut = SubResource("Shortcut_7vboy")
-text = "next"
+[node name="ActionsButtonVBoxContainer" type="VBoxContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="Button" type="Button" parent="VBoxContainer/ActionsButtonVBoxContainer"]
+layout_mode = 2
+text = "herro
+"
+
+[node name="Button2" type="Button" parent="VBoxContainer/ActionsButtonVBoxContainer"]
+layout_mode = 2
+text = "aaaaaa"
+
+[node name="Button3" type="Button" parent="VBoxContainer/ActionsButtonVBoxContainer"]
+layout_mode = 2
+text = "lj"
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 unique_name_in_owner = true
