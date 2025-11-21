@@ -42,7 +42,6 @@ func show_text() -> void:
 	)
 
 
-## Progresses to the next slide.
 func advance() -> void:
 	current_item_index += 1
 	if current_item_index == dialogue_items.size():
