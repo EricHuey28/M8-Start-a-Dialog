@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1763586317
+::res://::1763767093
 icon_start_a_dialog.png::CompressedTexture2D::6303229813746255456::1762630817::1763421378::1::::<><><>0<>0<>6d676fc3aef42e64632942641da5c823<>res://.godot/imported/icon_start_a_dialog.png-2a805b4f58191bd59b989ffb2edce0cc.ctex::
 node_2d.tscn::PackedScene::2305756116974176340::1763421507::0::1::::<><><>0<>0<><>::
 ::res://addons/::1763421396
@@ -11,7 +11,7 @@ gdpractice.gd::GDScript::5979087022897298672::1762630817::0::1::::<>EditorPlugin
 metadata.gd::GDScript::2985675861330059244::1762630817::0::1::::<>Node<><>0<>1<><>::
 paths.gd::GDScript::82790454512892745::1762630817::0::1::::<>RefCounted<><>0<>0<><>::
 plugin.cfg::TextFile::-1::1762630817::0::1::::<><><>0<>0<><>::
-::res://addons/gdpractice/assets/::1763488869
+::res://addons/gdpractice/assets/::1763766983
 checkbox_empty.svg::CompressedTexture2D::159996384623349208::1762630817::1763421377::1::::<><><>0<>0<>53bb7d2a866cb16a1a0471a771b4b0d7<>res://.godot/imported/checkbox_empty.svg-670795e6630909b934b40801062ec14f.ctex::
 checkbox_ticked.svg::CompressedTexture2D::4681739381960142151::1762630817::1763421377::1::::<><><>0<>0<>3072ea58afe0e073a60f9898f0f71ce4<>res://.godot/imported/checkbox_ticked.svg-564ad4b3ab0ae5c1e5fc8f01f4337ab7.ctex::
 dash_border.png::CompressedTexture2D::5174105164185721961::1762630817::1763421377::1::::<><><>0<>0<>371e521bb8f2b6b13019e828e8c0006f<>res://.godot/imported/dash_border.png-62c45c79b21ca5931452928502aa8536.ctex::
@@ -20,7 +20,7 @@ input_arrow.svg::CompressedTexture2D::4441352498702649159::1762630817::176342137
 input_mouse_base.svg::CompressedTexture2D::7057538906146452317::1762630817::1763421377::1::::<><><>0<>0<>a625696e0d39362100b6d3e86d40a4d8<>res://.godot/imported/input_mouse_base.svg-dbf80cc9a5deece90e8d05ef17a0c72f.ctex::
 input_mouse_left_click.svg::CompressedTexture2D::3923731288610382921::1762630817::1763421377::1::::<><><>0<>0<>b47916257ec9d9294c46de2a7ec3eb29<>res://.godot/imported/input_mouse_left_click.svg-be147924c06daa7ed438424ff9b7c06d.ctex::
 new_style_box_flat.tres::StyleBoxFlat::2828730235135847896::1762630817::0::1::::<><><>0<>0<><>::
-theme.tres::Theme::3147173487228338806::1763488869::0::1::::<><><>0<>0<><>::uid://d3u2nhkuevn1l::::res://addons/gdpractice/assets/fonts/Inter-Bold.ttf<>uid://deeixt6cs64ak::::res://addons/gdpractice/assets/fonts/Inter-SemiBold.ttf<>uid://b4dj3x16cr0vk::::res://addons/gdpractice/assets/fonts/Inter-ExtraBoldItalic.otf<>uid://btiybsu6acuy7::::res://addons/gdpractice/assets/fonts/Montserrat-Bold.ttf<>uid://h13sewj2ined::::res://addons/gdpractice/assets/fonts/Inter-BoldItalic.otf<>uid://c5j5yg0bc1jec::::res://addons/gdpractice/assets/fonts/Inter-Italic.otf<>uid://bhubmlwupfvt5::::res://addons/gdpractice/assets/fonts/Inter-Medium.ttf
+theme.tres::Theme::3147173487228338806::1763766983::0::1::::<><><>0<>0<><>::uid://d3u2nhkuevn1l::::res://addons/gdpractice/assets/fonts/Inter-Bold.ttf<>uid://deeixt6cs64ak::::res://addons/gdpractice/assets/fonts/Inter-SemiBold.ttf<>uid://b4dj3x16cr0vk::::res://addons/gdpractice/assets/fonts/Inter-ExtraBoldItalic.otf<>uid://btiybsu6acuy7::::res://addons/gdpractice/assets/fonts/Montserrat-Bold.ttf<>uid://h13sewj2ined::::res://addons/gdpractice/assets/fonts/Inter-BoldItalic.otf<>uid://c5j5yg0bc1jec::::res://addons/gdpractice/assets/fonts/Inter-Italic.otf<>uid://bhubmlwupfvt5::::res://addons/gdpractice/assets/fonts/Inter-Medium.ttf
 ::res://addons/gdpractice/assets/fonts/::1763421396
 Inter-Bold.ttf::FontFile::9167500186177253915::1762630817::1763421377::1::::<><><>0<>0<>2757372c7102dc28acb4cde6898256ee<>res://.godot/imported/Inter-Bold.ttf-8d68871aa6b1ad81a20ff97664dd0e9f.fontdata::
 Inter-BoldItalic.otf::FontFile::546728191683957199::1762630817::1763421377::1::::<><><>0<>0<>727278314f12df2533a872f8690f5476<>res://.godot/imported/Inter-BoldItalic.otf-3cddc448bbbebbbbd6abf92d039f40c5.fontdata::
@@ -114,7 +114,7 @@ reset_net_injector.gd::GDScript::6524666569539532765::1762630817::0::1::::<>Node
 ::res://addons/gdquest_theme_utils/::1763421379
 README.md::TextFile::-1::1762630817::0::1::::<><><>0<>0<><>::
 theme_utils.gd::GDScript::8570643529736897997::1762630817::0::1::::<>RefCounted<><>0<>1<><>::
-::res://assets/::1763488869
+::res://assets/::1763766983
 bubble_pattern.png::CompressedTexture2D::3323087775415318780::1762630817::1763421377::1::::<><><>0<>0<>6f9a32f6aeab8d7cafd030f430e75ca3<>res://.godot/imported/bubble_pattern.png-d4157bb6e93483cd03c6b210e6d2a77f.ctex::
 dialogue_choice_icon.svg::CompressedTexture2D::1158831788705058580::1762630817::1763421378::1::::<><><>0<>0<>24095b5b050c5b871c92cb61b1866448<>res://.godot/imported/dialogue_choice_icon.svg-d23031d760307acb0c9c5086f69e9f75.ctex::
 dialogue_item_icon.svg::CompressedTexture2D::9035513601559051251::1762630817::1763421378::1::::<><><>0<>0<>34ff119508107e49a1ac66eac3014c2e<>res://.godot/imported/dialogue_item_icon.svg-7af5f928e1ae1002617ef560140a5f7e.ctex::
@@ -122,7 +122,7 @@ dialogue_scene_icon.svg::CompressedTexture2D::5138257990148662157::1762630817::1
 emotion_happy.png::CompressedTexture2D::7314598341422771064::1762630817::1763421378::1::::<><><>0<>0<>7b26c540c8a507c22875dafc8e7ea3c3<>res://.godot/imported/emotion_happy.png-9a618c47166021d2b3fdbaf667aee8cb.ctex::
 emotion_regular.png::CompressedTexture2D::8967152086833506112::1762630817::1763421378::1::::<><><>0<>0<>13e7c30b9bc8dd7ef1f16b81b465d85e<>res://.godot/imported/emotion_regular.png-3ee71c9f76bcdb11d6dbc3f0c3180ed7.ctex::
 emotion_sad.png::CompressedTexture2D::2895084838457928809::1762630817::1763421378::1::::<><><>0<>0<>1a8df578328fd7c7102275d40ea89955<>res://.godot/imported/emotion_sad.png-ee33522122c9971fa476619dcbceee12.ctex::
-main_theme.tres::Theme::177973719302523090::1763488869::0::1::::<><><>0<>0<><>::
+main_theme.tres::Theme::177973719302523090::1763766983::0::1::::<><><>0<>0<><>::
 pink.png::CompressedTexture2D::1477721616654310958::1762630817::1763421378::1::::<><><>0<>0<>2dc6d68cb54be8c910c4a18e6a797281<>res://.godot/imported/pink.png-0e118c0a13c625367f41793402bc0186.ctex::
 practice_background_material.tres::ShaderMaterial::8809854004584619153::1762630817::0::1::::<><><>0<>0<><>::res://assets/sliding_background.gdshader<>uid://bnly1gkbxw6b5::::res://assets/bubble_pattern.png
 sliding_background.gdshader::Shader::8069579354607728155::1762630817::0::1::::<><><>0<>0<><>::
@@ -131,7 +131,7 @@ talking_synth.license.txt::TextFile::-1::1762630817::0::1::::<><><>0<>0<><>::
 talking_synth.ogg::AudioStreamOggVorbis::5277183244986758530::1762630817::1763421378::1::::<><><>0<>0<>453cc5ec817cf1d18f1c6280ec9891ac<>res://.godot/imported/talking_synth.ogg-cb19ba023682449fbcd282955a910afe.oggvorbisstr::
 talking_synth_alternate.ogg::AudioStreamOggVorbis::3285191881384235626::1762630817::1763421378::1::::<><><>0<>0<>5ea259e83299c25da122802ec3c835ad<>res://.godot/imported/talking_synth_alternate.ogg-bc12a713051acab0a285ff5d323e3bd8.oggvorbisstr::
 test.svg::CompressedTexture2D::996294012766278173::1762630817::1763421378::1::::<><><>0<>0<>ba4341a6c83fa4e0504ef2d150f3a830<>res://.godot/imported/test.svg-689185d65599d06cb921948f33195eb0.ctex::
-::res://assets/practices/::1763488869
+::res://assets/practices/::1763766983
 book.svg::CompressedTexture2D::376618611823744065::1762630817::1763421377::1::::<><><>0<>0<>b2bb725e95a8e74d4d0559c39c7fd475<>res://.godot/imported/book.svg-f7c01f0c01788f60c150f860450c2d79.ctex::
 coin.svg::CompressedTexture2D::8100863076704409878::1762630817::1763421377::1::::<><><>0<>0<>3e8c0f0b7b14de7170fbe4ed24f05c81<>res://.godot/imported/coin.svg-e5f68005d210bb1c892c75afc6cf0711.ctex::
 coins.svg::CompressedTexture2D::5961083602014655203::1762630817::1763421377::1::::<><><>0<>0<>c3418bcae8ad115eff48ba1e487c4705<>res://.godot/imported/coins.svg-493d121a0e36671b2d9afc803aeefb52.ctex::
@@ -142,7 +142,7 @@ icons.gd::GDScript::2857778152422201193::1762630817::0::1::::PracticeIcons<>Reso
 inventory_slot_button.gd::GDScript::8184097462958012191::1762630817::0::1::::InventorySlotButton<>PanelContainer<><>0<>1<><>::
 key.svg::CompressedTexture2D::5937342709167725695::1762630817::1763421377::1::::<><><>0<>0<>756ac2e86c7688e191473a62bc39b6cd<>res://.godot/imported/key.svg-db4f0a5408fb9af370f61fd5050046e8.ctex::
 potion.svg::CompressedTexture2D::7293927919955156462::1762630817::1763421377::1::::<><><>0<>0<>d1e2e00f3f021318e594a656d9e16a7d<>res://.godot/imported/potion.svg-4d4850c69fe03190a98c7a73710b68aa.ctex::
-practices_theme.tres::Theme::1145396191969130672::1763488869::0::1::::<><><>0<>0<><>::uid://dyrsmldl66u55::::res://assets/practices/Stacked pixel.ttf
+practices_theme.tres::Theme::1145396191969130672::1763766983::0::1::::<><><>0<>0<><>::uid://dyrsmldl66u55::::res://assets/practices/Stacked pixel.ttf
 purse.svg::CompressedTexture2D::8464143447587052692::1762630817::1763421377::1::::<><><>0<>0<>ac344732194b7d5f7022ce421957d534<>res://.godot/imported/purse.svg-a7165900bf9d9ad6f77bbd442f72441b.ctex::
 ring.svg::CompressedTexture2D::90114836146692196::1762630817::1763421377::1::::<><><>0<>0<>fcffaee8a6d206cc152cbad7e84ce2c7<>res://.godot/imported/ring.svg-f285fb168779e0353e877f5e93f19ad2.ctex::
 scroll.svg::CompressedTexture2D::3548319874678020867::1762630817::1763421377::1::::<><><>0<>0<>f9f527f058e15c849bdee420c9bcb790<>res://.godot/imported/scroll.svg-4f60a804ad6fe88d57ffd5bd46015b32.ctex::
@@ -153,11 +153,13 @@ Stacked pixel.ttf::FontFile::8880003638541475186::1762630817::1763421377::1::::<
 sword.svg::CompressedTexture2D::5648865757471466502::1762630817::1763421377::1::::<><><>0<>0<>520cf322119d78c02a9d69ec8ed66070<>res://.godot/imported/sword.svg-68d7a07bce8c918890a1be4684106ac7.ctex::
 times.svg::CompressedTexture2D::6053873079454667765::1762630817::1763421377::1::::<><><>0<>0<>2a51c0b735359d9a945f6880ee96484b<>res://.godot/imported/times.svg-78edd8b3b6fdfb5b8d06bdd11dc076b9.ctex::
 torch.svg::CompressedTexture2D::1127836395780157066::1762630817::1763421377::1::::<><><>0<>0<>142c6b7569daa5f9b80dcd9eb1119da9<>res://.godot/imported/torch.svg-8eb96b0e7222be78a4f00a3359765f82.ctex::
-::res://lessons/::1763488874
-dialogue.gd::GDScript::7016479085190952283::1762630817::0::1::::<>Control<><>0<>0<><>::
-dialogue.tscn::PackedScene::5296199793344880298::1763488869::0::1::::<><><>0<>0<><>::uid://cshg3sgf0xxq::::res://assets/main_theme.tres<>uid://c673ndsi3esbr::::res://lessons/dialogue.gd<>uid://dm7717xxg836f::::res://assets/sliding_background.gdshader<>uid://bnly1gkbxw6b5::::res://assets/bubble_pattern.png<>uid://copkt78vgp37i::::res://assets/sophia.png<>uid://d000xjtr4iqtk::::res://assets/emotion_regular.png<>uid://chgko4hmxwxu5::::res://assets/talking_synth.ogg
-slideshow.gd::GDScript::5272903051469297684::1762630817::0::1::::<>Control<><>0<>0<><>::
-slideshow.tscn::PackedScene::3533294027102932216::1762630817::0::1::::<><><>0<>0<><>::uid://cshg3sgf0xxq::::res://assets/main_theme.tres<>uid://cheh7b73m0fds::::res://lessons/slideshow.gd<>uid://dm7717xxg836f::::res://assets/sliding_background.gdshader<>uid://bnly1gkbxw6b5::::res://assets/bubble_pattern.png<>uid://copkt78vgp37i::::res://assets/sophia.png<>uid://d000xjtr4iqtk::::res://assets/emotion_regular.png<>uid://chgko4hmxwxu5::::res://assets/talking_synth.ogg
+::res://lessons/::1763767090
+dialogue.gd::GDScript::7016479085190952283::1763765793::0::1::::<>Control<><>0<>0<><>::
+dialogue.tscn::PackedScene::5296199793344880298::1763766434::0::1::::<><><>0<>0<><>::uid://cshg3sgf0xxq::::res://assets/main_theme.tres<>uid://c673ndsi3esbr::::res://lessons/dialogue.gd<>uid://dm7717xxg836f::::res://assets/sliding_background.gdshader<>uid://bnly1gkbxw6b5::::res://assets/bubble_pattern.png<>uid://copkt78vgp37i::::res://assets/sophia.png<>uid://d000xjtr4iqtk::::res://assets/emotion_regular.png<>uid://chgko4hmxwxu5::::res://assets/talking_synth.ogg
+new_resource.tres::Resource/SlideShowEntry::7123017127103301054::1763767089::0::1::::<><><>0<>0<><>::uid://cr381jwvqv5u1::::res://lessons/slideshow_entry.gd
+slideshow.gd::GDScript::5272903051469297684::1763767013::0::1::::<>Control<><>0<>0<><>::
+slideshow.tscn::PackedScene::3533294027102932216::1763767056::0::1::::<><><>0<>0<><>::uid://cshg3sgf0xxq::::res://assets/main_theme.tres<>uid://cheh7b73m0fds::::res://lessons/slideshow.gd<>uid://dm7717xxg836f::::res://assets/sliding_background.gdshader<>uid://bnly1gkbxw6b5::::res://assets/bubble_pattern.png<>uid://copkt78vgp37i::::res://assets/sophia.png<>uid://d000xjtr4iqtk::::res://assets/emotion_regular.png<>uid://chgko4hmxwxu5::::res://assets/talking_synth.ogg
+slideshow_entry.gd::GDScript::6025904885421481474::1763767056::0::1::::SlideShowEntry<>Resource<><>0<>0<><>::
 ::res://practices/::1763421404
 ::res://practices/L4.P1.populate_inventory/::1763421404
 populate_inventory.gd::GDScript::4707919149877769467::1762630817::0::1::::<>ColorRect<><>0<>0<><>::

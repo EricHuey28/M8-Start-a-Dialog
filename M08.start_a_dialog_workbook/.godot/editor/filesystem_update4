@@ -1,5 +1,7 @@
-res://lessons/dialogue.tscn
+res://lessons/test_slideshow_entry.tres
+res://lessons/slideshow.tscn
 res://addons/gdpractice/assets/theme.tres
 res://assets/practices/practices_theme.tres
 res://assets/main_theme.tres
-res://lessons/dialogue.gd
+res://lessons/slideshow.gd
+res://lessons/slideshow_entry.gd
