@@ -1,12 +1,18 @@
-[gd_scene load_steps=9 format=3 uid="uid://chprvwfixox2y"]
+[gd_scene load_steps=12 format=3 uid="uid://chprvwfixox2y"]
 
 [ext_resource type="Theme" uid="uid://cshg3sgf0xxq" path="res://assets/main_theme.tres" id="1_nggfo"]
 [ext_resource type="Script" uid="uid://c673ndsi3esbr" path="res://lessons/dialogue.gd" id="2_n1q1t"]
 [ext_resource type="Shader" uid="uid://dm7717xxg836f" path="res://assets/sliding_background.gdshader" id="3_3nfwl"]
+[ext_resource type="Script" uid="uid://dei5f1ruqnct7" path="res://lessons/dialogue_item.gd" id="3_xlxck"]
+[ext_resource type="Script" uid="uid://itdxxii7hrfw" path="res://lessons/dialogue_choice.gd" id="4_ujubm"]
 [ext_resource type="Texture2D" uid="uid://bnly1gkbxw6b5" path="res://assets/bubble_pattern.png" id="4_xuy0d"]
 [ext_resource type="Texture2D" uid="uid://copkt78vgp37i" path="res://assets/sophia.png" id="5_g5y1a"]
 [ext_resource type="Texture2D" uid="uid://d000xjtr4iqtk" path="res://assets/emotion_regular.png" id="6_bayqr"]
 [ext_resource type="AudioStream" uid="uid://chgko4hmxwxu5" path="res://assets/talking_synth.ogg" id="7_1fga6"]
+
+[sub_resource type="Resource" id="Resource_rjbgl"]
+script = ExtResource("3_xlxck")
+metadata/_custom_type_script = "uid://dei5f1ruqnct7"
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_efgpg"]
 shader = ExtResource("3_3nfwl")
@@ -25,6 +31,7 @@ grow_vertical = 2
 size_flags_vertical = 2
 theme = ExtResource("1_nggfo")
 script = ExtResource("2_n1q1t")
+dialogue_items = Array[ExtResource("3_xlxck")]([null, null, SubResource("Resource_rjbgl")])
 
 [node name="Background" type="ColorRect" parent="."]
 material = SubResource("ShaderMaterial_efgpg")
